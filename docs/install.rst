@@ -10,9 +10,15 @@ To run this project on a new laptop:
 
 ``cookiecutter https://github.com/e2718281/project_template``
 
-2. Go to github.com and create the intended repo.  Create .gitignore (Python template) and a README file.  
+------------
+
+2. Go to github.com and create the intended repo.  Create .gitignore (Python template) and a README file. 
+
+------------
 
 3. Add .idea to the .gitignore file
+
+------------
 
 4. On the local computer navigate into the top-level directory of the newly-generated project (ie. the one with manage.py)
 ::
@@ -21,7 +27,11 @@ To run this project on a new laptop:
 |       ``git init``
 |       ``git pull https://github.com/<newly_created_github_repo>``
 
+------------
+
 5. Open project in PyCharm.
+
+------------
 
 6. Use PyCharm to make commit into git repo.
 
