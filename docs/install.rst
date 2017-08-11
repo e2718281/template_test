@@ -24,8 +24,8 @@ To run this project on a new laptop:
 ::
 
 
-|       ``git init``
-|       ``git pull https://github.com/<newly_created_github_repo>``
+``git init``
+``git pull https://github.com/<newly_created_github_repo>``
 
 ------------
 
